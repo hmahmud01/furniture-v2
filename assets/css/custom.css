@@ -28,3 +28,11 @@
 .card-img-top{
     height: 200px;
 }
+
+.area-position{
+    position: absolute;
+    margin: auto;
+    width: 600px;
+    left: 0;
+    right: 0;
+}
